@@ -82,7 +82,7 @@ html,body{margin:0;padding:0;font-family:Inter,system-ui,Segoe UI,Arial,sans-ser
 
 .btn{
   width:100%;border:0;border-radius:12px;background:var(--green);color:#fff;
-  font-weight:900;padding:11px;cursor:pointer;transition:.2s background;margin-top:2px
+ font-weight:900;padding:11px;cursor:pointer;transition:.2s background;margin-top:2px
 }
 .btn:hover{background:var(--green-dark)}
 
